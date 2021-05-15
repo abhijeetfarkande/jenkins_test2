@@ -9,7 +9,7 @@ pipeline
       {
         steps
         {
-          println "This is from Jenkins Test2 From Master"
+          println "This is from Jenkins Test2 From Dev2"
         }
       }
       
